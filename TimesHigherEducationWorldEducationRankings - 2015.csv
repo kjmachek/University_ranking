@@ -1,0 +1,402 @@
+world_rank,university_name,country,teaching,international,research,citations,income,total_score,num_students,student_staff_ratio,international_students,female_male_ratio,year
+1,California Institute of Technology,United States of America,92.2,67,98.1,99.7,89.1,94.3,"2,243",6.9,27%,33 : 67,2015
+2,Harvard University,United States of America,92.9,67.6,98.6,98.9,44,93.3,"20,152",8.9,25%,,2015
+3,University of Oxford,United Kingdom,88.6,90.7,97.7,95.5,72.9,93.2,"19,919",11.6,34%,46:54:00,2015
+4,Stanford University,United States of America,91.5,69,96.7,99.1,63.1,92.9,"15,596",7.8,22%,42:58:00,2015
+5,University of Cambridge,United Kingdom,89.7,87.8,95.6,95.2,51.1,92,"18,812",11.8,34%,46:54:00,2015
+6,Massachusetts Institute of Technology,United States of America,89.1,84.3,88.2,100,95.7,91.9,"11,074",9,33%,37 : 63,2015
+7,Princeton University,United States of America,86.6,61.2,94.7,99.6,82.7,90.9,"7,929",8.4,27%,45:55:00,2015
+8,"University of California, Berkeley",United States of America,84.2,58.5,96.7,99.1,44.8,89.5,"36,186",16.4,15%,50:50:00,2015
+9,Imperial College London,United Kingdom,84.6,92.7,88.3,89.4,72.7,87.5,"15,060",11.7,51%,37 : 63,2015
+9,Yale University,United States of America,88.5,59.8,90.8,94,42,87.5,"11,751",4.4,20%,50:50:00,2015
+11,University of Chicago,United States of America,83.9,65.2,89.9,97.3,36.8,87.1,"14,221",6.9,21%,42:58:00,2015
+12,"University of California, Los Angeles",United States of America,82.4,49.2,90.5,95.3,-,85.5,"38,206",10.3,15%,52:48:00,2015
+13,ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland,78.2,96.6,90.2,83.5,73.2,84.6,"18,178",14.7,37%,31 : 69,2015
+14,Columbia University,United States of America,83.9,68.3,79.4,95.3,-,84.4,"25,055",5.9,28%,,2015
+15,Johns Hopkins University,United States of America,75.6,59.7,84.2,93.6,100,83,"15,128",3.6,23%,50:50:00,2015
+16,University of Pennsylvania,United States of America,79,43.8,82,94.4,43,81,"20,376",6.5,20%,51:49:00,2015
+17,University of Michigan,United States of America,77,49.8,86.5,88.9,55.7,80.9,"41,786",9,16%,48:52:00,2015
+18,Duke University,United States of America,73.5,50.5,75.2,96.6,100,79.9,"15,172",4.8,17%,49:51:00,2015
+19,Cornell University,United States of America,71.6,59,83.8,91.5,33.7,79.4,"21,424",10.2,19%,48:52:00,2015
+20,University of Toronto,Canada,74.4,71.2,85.1,83,46.1,79.3,"66,198",19.5,15%,,2015
+21,Northwestern University,United States of America,72.7,36.7,78.9,96.9,77,79.2,"18,334",13.8,15%,48:52:00,2015
+22,University College London,United Kingdom,70.4,90.6,80.4,85.1,46.2,78.7,"26,607",10.7,46%,56:44:00,2015
+23,University of Tokyo,Japan,81.4,32.4,85.1,74.7,51.2,76.1,"26,199",5.7,10%,,2015
+24,Carnegie Mellon University,United States of America,61.6,59.3,74.9,92,53,74.3,"11,885",13.1,35%,39 : 61,2015
+25,National University of Singapore,Singapore,72,94.9,78.1,66,53.4,73.3,"31,592",15.5,34%,49:51:00,2015
+26,University of Washington,United States of America,64.5,47.9,68.9,95,44.7,73.2,"44,020",11.8,13%,53:47:00,2015
+27,Georgia Institute of Technology,United States of America,62.5,68.9,71.2,85.8,72.3,72.8,"19,967",20.1,26%,31 : 69,2015
+28,University of Texas at Austin,United States of America,64.3,33.1,72,91.5,58.1,72.3,"49,427",17.4,9%,51:49:00,2015
+29,LMU Munich,Germany,65.1,56.4,69.1,83,100,71.9,"35,691",15.5,13%,62:38:00,2015
+29,University of Illinois at Urbana-Champaign,United States of America,67.7,43.9,79,77.8,51.7,71.9,"42,727",18.7,20%,47:53:00,2015
+29,University of Wisconsin-Madison,United States of America,67.7,33.6,71.3,87.7,53.3,71.9,"39,655",10.8,11%,51:49:00,2015
+32,University of British Columbia,Canada,60.5,84.8,69,85.3,40.1,71.8,"50,152",17.6,25%,54:46:00,2015
+33,University of Melbourne,Australia,60.4,81.3,70.9,80.6,61.2,71.2,"40,128",23.7,35%,55:45:00,2015
+34,London School of Economics and Political Science,United Kingdom,65.4,87.4,74.2,71.3,40.6,70.9,,,,,2015
+34,École Polytechnique Fédérale de Lausanne,Switzerland,54.7,98.8,56.9,95,61.9,70.9,"9,666",10.5,54%,27 : 73,2015
+36,University of Edinburgh,United Kingdom,58.9,84.3,62.9,88.3,41.2,70.4,"25,774",14.1,36%,58:42:00,2015
+37,"University of California, Santa Barbara",United States of America,49.4,64.3,61.4,99.2,87.1,70,"22,020",27.3,11%,52:48:00,2015
+38,New York University,United States of America,68.3,41.2,62.4,89.5,30.2,69.9,"42,056",6.8,19%,55:45:00,2015
+39,McGill University,Canada,63.3,79,69.9,76,38.6,69.6,"31,326",13.7,23%,56:44:00,2015
+40,King’s College London,United Kingdom,55.6,87,62.3,88.3,39,69.4,"21,394",11.4,37%,61:39:00,2015
+41,"University of California, San Diego",United States of America,52,37,66.6,96.4,54.2,68.6,"27,233",6.5,11%,48:52:00,2015
+42,Washington University in St Louis,United States of America,57.6,46.5,55.2,97.1,-,67.8,"12,528",5.7,17%,,2015
+43,University of Hong Kong,Hong Kong,62.1,81.9,72.6,65.1,56,67.5,"19,835",17.6,38%,53:47:00,2015
+44,Karolinska Institute,Sweden,57.1,60.6,68,76.8,65.5,66.8,"7,774",11.5,22%,70:30:00,2015
+45,Australian National University,Australia,53.7,91.3,70.9,71.1,38.9,66.5,"14,604",19.2,35%,52:48:00,2015
+46,University of Minnesota,United States of America,59.9,33.8,64.7,82.9,-,65.9,"46,825",18,13%,52:48:00,2015
+46,University of North Carolina at Chapel Hill,United States of America,57.9,35.3,58.6,91,40.5,65.9,"26,518",7.3,8%,58:42:00,2015
+48,Peking University,China,70,53.7,61.9,63.7,100,65.2,"40,148",8.3,14%,,2015
+49,Tsinghua University,China,64.1,44.6,68.3,65,99.7,65.1,"39,763",13.7,10%,32 : 68,2015
+50,Seoul National University,South Korea,75.5,30.3,77.1,48.7,86.3,64.8,"26,389",13.9,10%,,2015
+51,Hong Kong University of Science and Technology,Hong Kong,51.8,77.8,66.8,72.9,57.6,64.7,"11,385",23.8,36%,,2015
+52,Korea Advanced Institute of Science and Technology (KAIST),South Korea,63.5,34.9,63.2,71.4,100,64.5,"9,027",10,9%,0.888888889,2015
+52,University of Manchester,United Kingdom,58.1,82,58.7,74.3,39.4,64.5,"34,938",15.3,34%,52:48:00,2015
+54,Brown University,United States of America,55.5,37,54.2,92,32.7,64.1,"8,653",10.1,19%,,2015
+55,KU Leuven,Belgium,53,62.3,63.6,71.8,99.9,63.7,"42,503",41.9,18%,54:46:00,2015
+55,"University of California, Davis",United States of America,54.4,52.9,59.7,80.4,55.4,63.7,"35,364",13.9,13%,54:46:00,2015
+57,Boston University,United States of America,56.4,47.8,46.7,94.4,30.3,63.6,"24,789",8.6,17%,58:42:00,2015
+58,Pennsylvania State University,United States of America,54.6,37.4,64.8,76,60.4,62.9,"44,501",12.4,12%,46:54:00,2015
+59,Kyoto University,Japan,70.4,29,68.4,57,73.3,62.8,"22,809",5.6,7%,,2015
+60,University of Sydney,Australia,52.8,83.6,60.8,69,67.3,62.7,"41,868",20.2,28%,57:43:00,2015
+61,Nanyang Technological University,Singapore,43.9,92.5,55.9,75.9,100,62.2,"25,028",16.2,33%,48:52:00,2015
+61,École Polytechnique,France,50.5,94.5,47.1,79.9,76.8,62.2,"2,429",4.8,30%,0.806944444,2015
+63,Scuola Normale Superiore di Pisa,Italy,48.2,50.1,46,96.4,40.1,61.9,462,16.5,5%,28 : 72,2015
+64,Leiden University,Netherlands,45,59.5,58.2,82.3,47.3,61.3,"21,222",17.1,10%,59:41:00,2015
+65,The University of Queensland,Australia,45.8,80.4,58.4,74.2,66.2,61.2,"34,718",32.7,27%,53:47:00,2015
+66,Pohang University of Science and Technology,South Korea,52.7,36,49.3,84.4,100,61.1,"3,055",10.1,4%,0.888888889,2015
+67,University of Göttingen,Germany,46.9,53.9,48,92.3,32.8,61,"25,581",25.6,12%,51:49:00,2015
+68,Ohio State University,United States of America,54,51.5,51.1,80.4,46.8,60.7,"51,462",13.4,12%,49:51:00,2015
+69,Rice University,United States of America,41.7,70.8,37.1,99.9,34.6,59.8,"6,333",9,26%,44:56:00,2015
+70,Heidelberg University,Germany,52.6,63.1,45.4,81.4,41.6,59.6,"28,881",24.5,17%,55:45:00,2015
+71,Delft University of Technology,Netherlands,55.5,77.9,71.4,42.6,100,59.2,"15,920",19.4,25%,26 : 74,2015
+72,Erasmus University Rotterdam,Netherlands,39.8,66.2,53.7,82.3,54.4,59.1,"20,580",18.9,18%,48:52:00,2015
+73,Wageningen University and Research Center,Netherlands,44.3,78.7,46.8,77.5,100,59,"9,248",17,21%,56:44:00,2015
+74,University of Bristol,United Kingdom,43.7,76.6,44.7,85.1,42.1,58.9,"17,906",14,25%,53:47:00,2015
+75,University of Basel,Switzerland,41.2,91.2,41.1,81.4,97.7,58.4,"12,551",17.3,24%,54:46:00,2015
+75,University of Southern California,United States of America,55.2,42.7,44.6,81.3,34.4,58.4,"36,534",12.9,20%,52:48:00,2015
+77,University of Amsterdam,Netherlands,42,60.5,55.4,76.6,56.7,58.2,"24,570",14.4,11%,53:47:00,2015
+78,École Normale Supérieure,France,48.7,81.9,36.2,84.8,39.4,58.1,"2,400",7.9,20%,46:54:00,2015
+79,Utrecht University,Netherlands,38.2,52.9,54.8,80,84.1,58,"30,779",15.4,7%,59:41:00,2015
+80,Humboldt University of Berlin,Germany,51.9,55.7,52.6,71.9,31.9,57.9,"29,987",52.5,16%,,2015
+81,Free University of Berlin,Germany,49.4,56.6,58,67.6,33.5,57.6,"33,062",39.3,20%,58:42:00,2015
+82,Michigan State University,United States of America,51.1,55,49.4,74,31.7,57.3,"44,750",15.7,15%,51:49:00,2015
+83,Durham University,United Kingdom,37.2,80.4,40.7,88.9,34.8,56.9,"15,489",15.7,24%,54:46:00,2015
+83,Monash University,Australia,43.7,79.6,54.4,65.7,73.4,56.9,"50,882",40.5,36%,56:44:00,2015
+85,Middle East Technical University,Turkey,45.5,38.7,36.9,92,55.2,56.6,"25,779",22.2,7%,44:56:00,2015
+86,University of Arizona,United States of America,44.9,38.8,51.4,74,99.6,56.5,"36,429",12.7,8%,52:48:00,2015
+86,University of Notre Dame,United States of America,43.3,51.4,38.5,90,-,56.5,"11,829",13.8,10%,44:56:00,2015
+88,Tufts University,United States of America,43.6,51.1,33.9,92.9,58.7,56.4,"10,410",10,14%,54:46:00,2015
+88,"University of California, Irvine",United States of America,39.5,56.1,41.7,89.5,40,56.4,"26,614",16.1,16%,52:48:00,2015
+90,Ghent University,Belgium,42.5,49.1,51.6,73.8,85.3,56.2,"32,166",34.1,9%,57:43:00,2015
+91,University of Massachusetts,United States of America,44.8,40.3,49.1,78.7,52.8,56.1,"56,959",13,11%,49:51:00,2015
+91,University of Pittsburgh,United States of America,45.2,32.2,46.3,84.4,38.5,56.1,"26,485",5.8,10%,51:49:00,2015
+93,Emory University,United States of America,49,42.9,32.4,89.5,42.3,55.5,"12,338",4.5,18%,56:44:00,2015
+94,McMaster University,Canada,38.1,69.4,43.2,78.8,85,55.3,"23,823",19.3,15%,53:47:00,2015
+94,University of Glasgow,United Kingdom,37,78.8,40.5,83.7,39.9,55.3,"22,616",16,29%,57:43:00,2015
+96,Vanderbilt University,United States of America,46,28.3,38.2,87.7,59.4,55.2,"12,161",3.6,10%,52:48:00,2015
+97,University of Colorado Boulder,United States of America,35,39.1,38.3,97.4,-,55.1,"29,325",16.1,8%,45:55:00,2015
+98,Stockholm University,Sweden,30.1,53.2,45,90.9,32.4,54.6,"31,715",23.7,8%,62:38:00,2015
+98,Technical University of Munich,Germany,45.6,64,37.4,78.8,49,54.6,"35,565",31.5,20%,33 : 67,2015
+98,Uppsala University,Sweden,40.2,57.5,53,70.9,39.6,54.6,"25,266",18.2,12%,57:43:00,2015
+101,Maastricht University,Netherlands,32.4,89.7,48.1,70.1,96.1,54.3,"15,626",18.9,48%,56:44:00,2015
+102,Purdue University,United States of America,47.8,64.3,50.5,62.2,-,54,"39,256",18.1,22%,42:58:00,2015
+103,Pierre and Marie Curie University,France,47.3,64.7,30,83.3,33.4,53.9,"27,862",8.7,18%,48:52:00,2015
+103,University of Helsinki,Finland,37.5,49.7,48.1,79,31.5,53.9,"23,505",15.1,6%,66:34:00,2015
+103,University of Warwick,United Kingdom,41.1,85.7,45.8,68.2,35.6,53.9,"18,529",16.6,37%,48:52:00,2015
+103,University of Zurich,Switzerland,40.2,86.9,33.1,81.4,40.1,53.9,"26,583",6.5,19%,57:43:00,2015
+107,Queen Mary University of London,United Kingdom,32.4,88.6,32.9,88.9,37.1,53.8,"14,260",14,40%,52:48:00,2015
+107,University of Geneva,Switzerland,34.5,96.8,37.2,78.2,65.1,53.8,"15,668",15,39%,61:39:00,2015
+109,"University of California, Santa Cruz",United States of America,30.6,54.6,31.9,100,33.8,53.7,"17,404",22.7,1%,53:47:00,2015
+109,University of New South Wales,Australia,41.1,83.5,51.9,61.1,47.8,53.7,"38,309",25.9,33%,47:53:00,2015
+111,University of St Andrews,United Kingdom,35.7,90.5,35.9,81.4,39.8,53.6,"8,338",12.7,47%,56:44:00,2015
+111,University of Sussex,United Kingdom,31.9,83.6,30.4,92.8,31.2,53.6,"12,001",17.4,35%,54:46:00,2015
+113,University of Montreal,Canada,43.8,76.7,44.4,62.9,91.8,53.4,"38,264",20.3,25%,57:43:00,2015
+113,University of Tübingen,Germany,41.5,53,44.7,74,54.7,53.4,"28,327",38.9,12%,58:42:00,2015
+113,University of York,United Kingdom,32.2,75,33.8,90.5,32.2,53.4,,,,,2015
+116,Case Western Reserve University,United States of America,46.5,34.4,37.4,82.9,-,53.2,"9,259",6.4,17%,48:52:00,2015
+117,University of Groningen,Netherlands,36.9,56.1,50.8,68.1,88.9,53.1,"24,556",25.6,12%,52:48:00,2015
+118,"Royal Holloway, University of London",United Kingdom,29.1,94.4,22.4,98.9,32.8,53,"8,747",15.9,37%,57:43:00,2015
+119,Lund University,Sweden,32.6,70.1,48.5,74.9,32.6,52.9,"28,251",11.5,15%,,2015
+120,Paris-Sud University,France,37.3,62.7,33.1,87.7,28.9,52.8,"27,603",15,17%,,2015
+121,Technical University of Denmark,Denmark,39.9,79.7,28.2,79.6,98.6,52.7,"9,990",5,18%,27 : 73,2015
+121,University of Rochester,United States of America,41.9,55.5,29.2,87.7,36.4,52.7,"9,390",4.5,26%,49:51:00,2015
+121,University of Sheffield,United Kingdom,40,74.8,39.1,74.3,43.8,52.7,"23,311",15.5,31%,50:50:00,2015
+124,University of Alberta,Canada,43.8,73.4,47.1,61.8,51.8,52.6,"36,299",21.6,23%,55:45:00,2015
+124,University of Cape Town,South Africa,26.8,76.7,35.3,86.6,88,52.6,"20,040",12.1,18%,53:47:00,2015
+126,Boston College,United States of America,32.4,54.6,29.1,95.9,46.5,52.5,"13,216",17.4,19%,54:46:00,2015
+126,KTH Royal Institute of Technology,Sweden,45.7,84,44.8,55.1,100,52.5,"12,062",14.6,21%,30 : 70,2015
+126,University of Florida,United States of America,49.8,32.2,52.1,62.2,-,52.5,"50,095",18.7,9%,54:46:00,2015
+129,Chinese University of Hong Kong,Hong Kong,43.9,64,53.5,57.8,42.8,52.4,"17,916",10.2,22%,53:47:00,2015
+130,University of Virginia,United States of America,48.7,31.8,35.9,76.9,49.8,52.1,"23,845",10.2,12%,52:48:00,2015
+131,Lancaster University,United Kingdom,35.4,84.7,36.1,78,34.1,52,"11,512",14.9,33%,52:48:00,2015
+132,University of Bern,Switzerland,42,80.7,36.9,70.1,47.4,51.9,"14,708",22.5,14%,54:46:00,2015
+132,"University of Maryland, College Park",United States of America,36.5,44.8,39.1,83.6,33.2,51.9,"31,331",8.4,9%,48:52:00,2015
+132,University of Southampton,United Kingdom,35.2,82.4,34.1,79.7,38.9,51.9,"20,925",13.5,29%,53:47:00,2015
+135,TU Dresden,Germany,39.8,44.7,42,70.8,99.5,51.6,"35,487",37.4,12%,42:58:00,2015
+136,University of Lausanne,Switzerland,29.4,85.1,39.9,76.5,50.9,51.4,"11,964",13.1,22%,,2015
+136,VU University Amsterdam,Netherlands,35.5,50.6,43.2,74.9,60,51.4,"23,280",16.3,6%,56:44:00,2015
+138,Trinity College Dublin,Republic of Ireland,39.4,83.9,30.3,77.6,30.6,51.2,"15,521",18,25%,57:43:00,2015
+139,Boğaziçi University,Turkey,28.5,54.1,27.6,96.8,47.7,51.1,"11,506",25,7%,50:50:00,2015
+140,Radboud University Nijmegen,Netherlands,30.5,61.6,46.7,73.9,42.8,51,"17,713",13,10%,58:42:00,2015
+141,Colorado School of Mines,United States of America,26.1,52.6,26.7,97.1,79.4,50.9,"5,287",18.2,12%,26 : 74,2015
+141,Texas A&M University,United States of America,46.2,49.1,51.9,55.1,49.6,50.9,"50,657",21.4,9%,47:53:00,2015
+141,Tokyo Institute of Technology,Japan,53.5,37,52.9,48.1,69.4,50.9,"9,586",7.3,13%,0.602083333,2015
+144,Eindhoven University of Technology,Netherlands,38.3,69,47.1,57.3,99.9,50.5,"8,176",16,14%,0.847916667,2015
+144,"Rutgers, the State University of New Jersey",United States of America,40.5,34.3,45.3,71,35.2,50.5,"37,032",17.3,8%,51:49:00,2015
+146,University of Leeds,United Kingdom,39.4,67.6,39.1,69.3,39.4,50.4,"27,703",14.7,21%,58:42:00,2015
+147,Brandeis University,United States of America,25.8,54.7,29.1,95.3,43.9,50.3,"5,495",12.6,22%,55:45:00,2015
+148,Sungkyunkwan University (SKKU),South Korea,48.1,35.8,50.2,51.7,98.5,50.2,"24,365",20.3,9%,39 : 61,2015
+148,University of Birmingham,United Kingdom,42.8,75.8,39.8,62.7,36,50.2,"25,295",16.4,23%,54:46:00,2015
+150,Indiana University,United States of America,46.5,37.1,35.1,73.1,-,50.1,"62,468",13.6,13%,53:47:00,2015
+150,"University of California, Riverside",United States of America,29.4,61.6,27.5,91.5,39.5,50.1,"20,626",22,12%,51:49:00,2015
+152,Dartmouth College,United States of America,38.3,33.1,35.4,80.4,49.1,50,"6,178",6.6,16%,47:53:00,2015
+153,Aarhus University,Denmark,30.9,66.3,47.5,66.5,59.8,49.9,"23,895",13.6,14%,54:46:00,2015
+154,University of Exeter,United Kingdom,32,79.8,32.7,78,35.8,49.7,"17,755",18.8,28%,54:46:00,2015
+155,National Taiwan University,Taiwan,48.8,27.5,57.3,47.7,43.8,49.3,"31,891",11.9,7%,39 : 61,2015
+156,RWTH Aachen University,Germany,39,56.8,29.9,75,69.8,49.2,"37,917",27.6,16%,31 : 69,2015
+157,Osaka University,Japan,51.3,29.1,48,51.1,73.6,49.1,"23,144",7.8,9%,31 : 69,2015
+157,University of Liverpool,United Kingdom,31.3,79.5,33.2,76.2,40,49.1,"18,815",13.6,30%,52:48:00,2015
+157,University of Western Australia,Australia,36.3,87.3,38.1,62.2,63.3,49.1,"20,851",20.7,27%,50:50:00,2015
+160,University of Copenhagen,Denmark,34,71.8,34.4,73.5,44.4,49,"27,545",4.1,19%,67:33:00,2015
+160,École Normale Supérieure de Lyon,France,38.1,64.4,33.8,73,29.3,49,"2,218",8,14%,49:51:00,2015
+162,University of Utah,United States of America,38.8,27.5,36.5,75,58.1,48.6,"25,674",16.9,9%,45:55:00,2015
+163,University of Freiburg,Germany,38,56.7,28.1,74,81.4,48.3,"26,467",31.2,16%,52:48:00,2015
+164,University of Adelaide,Australia,33.8,79.3,40.4,61.1,65.3,48.2,"20,771",30.1,26%,48:52:00,2015
+165,Istanbul Technical University,Turkey,30.2,37.3,36.9,79.7,51.1,48.1,"34,550",16,5%,34 : 66,2015
+165,Karlsruhe Institute of Technology,Germany,40.5,60.1,34.9,62.9,82.7,48.1,"25,294",24.6,16%,26 : 74,2015
+165,Pompeu Fabra University,Spain,25.1,63.2,28.3,88.3,35.9,48.1,"10,901",18.3,13%,59:41:00,2015
+165,Tohoku University,Japan,49.7,29.7,47.3,49.6,76.8,48.1,"17,200",5,7%,25 : 75,2015
+169,University of Miami,United States of America,42.7,56.7,27.2,73.1,-,48,"15,286",5.7,14%,50:50:00,2015
+170,University of Antwerp,Belgium,34.6,61,33.6,67.7,100,47.9,"12,346",30.3,16%,56:44:00,2015
+171,University of Nottingham,United Kingdom,39.9,70.6,35.8,62.7,39.6,47.8,"30,144",15,27%,54:46:00,2015
+171,Université Catholique de Louvain,Belgium,37.9,59.7,34.9,67.7,46.1,47.8,"28,856",42,19%,54:46:00,2015
+173,Georgetown University,United States of America,51.1,43.3,28.2,62.2,80,47.7,"15,408",8.5,14%,53:47:00,2015
+173,University of Victoria,Canada,21.6,70.1,30.6,86.7,31.6,47.7,"17,581",21.5,11%,56:44:00,2015
+175,University of Auckland,New Zealand,28.6,87.3,33.4,68.4,74.2,47.5,"29,787",18.9,28%,54:46:00,2015
+175,University of Iowa,United States of America,41.9,31.7,33.5,71,49.3,47.5,"27,526",11.6,11%,52:48:00,2015
+177,Syracuse University,United States of America,32.4,41.2,24.4,87.1,40.6,47.3,"19,660",15.9,15%,55:45:00,2015
+178,Joseph Fourier University,France,38,57.3,29.3,73,31.3,47.1,"16,130",12.1,13%,,2015
+178,University of Aberdeen,United Kingdom,28,84.1,30.2,74.3,42.1,47.1,"12,938",15.8,33%,54:46:00,2015
+180,Paris Diderot University – Paris 7,France,25.6,67.4,19.7,92.2,29.1,47,"27,756",14.8,17%,63:37:00,2015
+180,University of Delaware,United States of America,29,40.6,36.3,73.1,99.3,47,"19,262",15.9,10%,56:44:00,2015
+182,Arizona State University,United States of America,35.7,29.5,37.5,73.1,32.6,46.9,"83,236",29.9,9%,50:50:00,2015
+182,Sabancı University,Turkey,26,44.6,27.1,88.5,42.9,46.9,"2,739",15.9,6%,39 : 61,2015
+182,University of Vienna,Austria,35.2,91,39.7,56.3,29.4,46.9,"34,651",20.5,25%,67:33:00,2015
+185,Northeastern University,United States of America,36.4,54.7,21.9,81.3,34,46.8,"18,539",15.1,26%,50:50:00,2015
+186,University of Oslo,Norway,36.1,60.3,35.2,66.3,36.6,46.7,"27,139",18.8,18%,,2015
+186,Yeshiva University,United States of America,45.2,27.6,23.9,77.8,-,46.7,"6,753",5.5,7%,53:47:00,2015
+188,Stony Brook University,United States of America,32.8,60.5,24.4,80.4,31.3,46.6,"21,908",10.9,24%,50:50:00,2015
+188,Tel Aviv University,Israel,43.5,46.1,51.1,45.5,42.6,46.6,"23,977",24.4,4%,,2015
+188,University of Ottawa,Canada,37.9,63.2,34.7,62.9,45.9,46.6,"36,733",26.3,15%,60:40:00,2015
+191,University at Buffalo,United States of America,40.1,57,39.8,57.5,39.6,46.5,"25,668",19,19%,47:53:00,2015
+192,City University of Hong Kong,Hong Kong,31,71.3,32.9,68.6,49.8,46.3,"10,015",7.1,28%,51:49:00,2015
+193,Fudan University,China,45.6,37.4,34,61,49.4,46.2,"32,175",12.2,11%,50:50:00,2015
+193,Iowa State University,United States of America,36.4,40.6,30.9,72,54.4,46.2,"29,991",17.4,11%,44:56:00,2015
+195,University of Bonn,Germany,32.2,54.8,22.2,83.8,-,46.1,"32,474",70.4,13%,55:45:00,2015
+196,Lomonosov Moscow State University,Russian Federation,55.9,60.4,42.1,33.8,78.5,46,"30,822",7.7,20%,43:57:00,2015
+196,"St George’s, University of London",United Kingdom,23.1,55.8,27.3,86.4,32.4,46,"2,958",13.4,17%,61:39:00,2015
+198,University of East Anglia,United Kingdom,25.2,76.5,22.6,83.7,29.2,45.9,"14,992",14.7,28%,58:42:00,2015
+199,University of Leicester,United Kingdom,29.8,83.9,31.6,67.1,34.8,45.7,"14,541",13.4,35%,54:46:00,2015
+200,Florida Institute of Technology,United States of America,19.7,63,13.1,99.2,53.7,45.6,"4,408",13.7,26%,34 : 66,2015
+200,George Washington University,United States of America,44.6,39.9,25.1,70,29.3,45.6,"20,541",12,16%,56:44:00,2015
+201-225,Bilkent University,Turkey,28,44.6,27.7,76,46.4,-,,,,,2015
+201-225,Cardiff University,United Kingdom,30.5,69.3,30.4,69.3,34.8,-,"23,347",13.1,23%,57:43:00,2015
+201-225,Goethe University Frankfurt,Germany,28.1,55.6,22.4,78.8,38.8,-,"31,861",9.3,15%,60:40:00,2015
+201-225,Hebrew University of Jerusalem,Israel,41.5,53.3,36.3,57.2,31.5,-,"17,612",10.7,5%,55:45:00,2015
+201-225,Hong Kong Polytechnic University,Hong Kong,33.7,69.9,36.5,56.5,42.6,-,"22,064",25.9,26%,51:49:00,2015
+201-225,Korea University,South Korea,48.9,35.9,44.3,39.9,98.5,-,"24,043",15.8,14%,,2015
+201-225,Newcastle University,United Kingdom,30.3,73.8,29.6,70.3,35,-,"20,174",15.2,29%,50:50:00,2015
+201-225,Technion Israel Institute of Technology,Israel,36.9,60.6,37.5,52,36.5,-,"13,855",19.4,4%,35 : 65,2015
+201-225,Ulm University,Germany,35,54.1,22,73,56.7,-,"9,187",11.2,10%,47:53:00,2015
+201-225,University of Barcelona,Spain,28.4,47.8,28.8,79.7,31,-,"47,491",12.2,10%,62:38:00,2015
+201-225,University of Bergen,Norway,29.5,65.3,27.9,68.5,34.2,-,"11,623",11.1,12%,60:40:00,2015
+201-225,University of Dundee,United Kingdom,24.4,64.5,22.5,84.4,47.7,-,"11,628",15.3,25%,60:40:00,2015
+201-225,University of Illinois at Chicago,United States of America,43,53.4,34.1,55.1,40.7,-,"24,313",9.2,17%,53:47:00,2015
+201-225,University of Innsbruck,Austria,23.9,93.4,17.1,77,42,-,"18,209",16.9,39%,54:46:00,2015
+201-225,University of Reading,United Kingdom,32.8,75,34,58.1,34.9,-,"12,050",14.8,28%,55:45:00,2015
+201-225,University of Science and Technology of China,China,36.9,26.3,27.3,73.6,71.6,-,"14,290",7.9,2%,,2015
+201-225,University of Strasbourg,France,28.6,69.5,23.4,74,32,-,"46,208",17.8,21%,58:42:00,2015
+201-225,University of São Paulo,Brazil,51.6,25.3,51.6,32.3,40.1,-,"81,402",14.6,4%,48:52:00,2015
+201-225,University of Texas at Dallas,United States of America,26,55.4,28.2,77.8,41.6,-,"16,306",22.8,23%,44:56:00,2015
+201-225,University of Trieste,Italy,28.7,50.7,16,88.1,33.3,-,"18,135",25.8,9%,56:44:00,2015
+201-225,University of Twente,Netherlands,32.3,67.2,45.3,49.4,89.2,-,"6,631",12,26%,37 : 63,2015
+201-225,Université Libre de Bruxelles,Belgium,26.7,79.4,36.2,64.4,50.7,-,"23,819",26.1,32%,54:46:00,2015
+201-225,Wake Forest University,United States of America,33.3,26,23.5,81.3,38.2,-,"7,326",4.6,5%,51:49:00,2015
+201-225,William & Mary,United States of America,36.8,26.5,19.9,78.7,30,-,"7,867",11.8,7%,54:46:00,2015
+201-225,Yonsei University,South Korea,44.5,35.7,45.8,44.3,69.7,-,"24,774",11.6,14%,,2015
+226-250,Autonomous University of Barcelona,Spain,30.4,46.4,29.2,67,34.6,-,"30,538",12.3,10%,59:41:00,2015
+226-250,"Birkbeck, University of London",United Kingdom,28.3,84.4,29.3,60.4,28.7,-,"9,454",17.2,38%,55:45:00,2015
+226-250,Brunel University London,United Kingdom,22.1,88.8,21.4,75.3,31.9,-,"12,613",17.6,38%,46:54:00,2015
+226-250,Carleton University,Canada,24.3,61.1,24.5,76.9,30.7,-,"25,036",29.8,18%,47:53:00,2015
+226-250,Dalhousie University,Canada,33.6,71.6,30,54.4,68.9,-,"15,064",14.4,18%,55:45:00,2015
+226-250,Laval University,Canada,35.8,55.7,29.9,58.1,62.7,-,"27,227",16.2,12%,,2015
+226-250,Mines ParisTech,France,39.6,58.7,23.2,55.1,99,-,"1,283",5.6,22%,28 : 72,2015
+226-250,Nagoya University,Japan,37.5,31.8,31.8,59.9,86.3,-,"15,529",7.9,10%,29 : 71,2015
+226-250,Rensselaer Polytechnic Institute,United States of America,30.9,42.8,26.2,67.8,49.9,-,"6,671",15,16%,30 : 70,2015
+226-250,Simon Fraser University,Canada,24.6,61.4,29.3,67.6,41.8,-,"26,640",28.3,19%,55:45:00,2015
+226-250,State University of New York Albany,United States of America,25.7,39.6,35,68.9,-,-,"15,387",18.5,8%,51:49:00,2015
+226-250,Technical University of Berlin,Germany,42.2,70.4,32.3,47,63.4,-,,,,,2015
+226-250,Tokyo Metropolitan University,Japan,19.6,39.5,9.8,100,31,-,"9,303",9.9,4%,35 : 65,2015
+226-250,University College Dublin,Republic of Ireland,31.7,79.4,28.1,61.7,33.8,-,"22,193",24.5,23%,,2015
+226-250,University of Calgary,Canada,34.4,63.1,30.5,59.4,41.5,-,"28,341",16.5,17%,53:47:00,2015
+226-250,University of Gothenburg,Sweden,24.1,46.8,38.2,64.4,37,-,"26,420",16.4,12%,,2015
+226-250,University of Kiel,Germany,31.1,44.2,24.3,70.8,42,-,"24,444",23.8,8%,53:47:00,2015
+226-250,University of Konstanz,Germany,30.5,57,33.4,59.4,52.5,-,"10,930",59.1,12%,54:46:00,2015
+226-250,University of Milan-Bicocca,Italy,27.1,40.6,23,76.6,45,-,"33,370",72.5,5%,60:40:00,2015
+226-250,University of Technology Sydney,Australia,27.8,86.9,32.5,58.7,40.1,-,"24,519",44.1,31%,53:47:00,2015
+226-250,University of Western Ontario,Canada,38.3,63.7,35.7,47,50.7,-,"27,387",20.7,16%,54:46:00,2015
+226-250,University of Würzburg,Germany,28.6,50.2,17.3,81.4,30,-,"26,576",38.4,8%,57:43:00,2015
+226-250,Vienna University of Technology,Austria,43.3,75.9,32.4,41.7,64.1,-,"26,419",52,27%,27 : 73,2015
+226-250,York University,Canada,27.5,59.7,35.3,62.9,34.1,-,"48,007",39.4,9%,59:41:00,2015
+251-275,Aalto University,Finland,31.8,59.4,31.3,50.2,64.5,-,"16,099",24.2,17%,32 : 68,2015
+251-275,Federico Santa María Technical University,Chile,13,48.7,10.1,99.7,28.1,-,"11,718",34,2%,24 : 76,2015
+251-275,Medical University of Vienna,Austria,28.6,73.1,17,71.1,33.7,-,"7,426",2.9,28%,50:50:00,2015
+251-275,Nanjing University,China,34.6,50.2,23.3,59.6,51.7,-,"29,743",13.3,10%,46:54:00,2015
+251-275,National Tsing Hua University,Taiwan,39.4,24.8,40.3,49.1,49.4,-,"10,221",13.5,5%,33 : 67,2015
+251-275,"National University of Ireland, Galway",Republic of Ireland,26.7,71.7,24.8,62.8,43.1,-,"14,067",26.8,14%,56:44:00,2015
+251-275,Queen’s University,Canada,37.3,55.4,33.4,48.2,59,-,"20,488",22.1,10%,58:42:00,2015
+251-275,Queen’s University Belfast,United Kingdom,30.1,88.6,25.1,52.2,43.7,-,"17,940",17.9,30%,54:46:00,2015
+251-275,Swedish University of Agricultural Sciences,Sweden,27.9,49.6,25.2,59.9,99.8,-,"3,879",4.6,,67:33:00,2015
+251-275,Technical University of Darmstadt,Germany,36.9,59.6,33.7,42,88.9,-,"20,300",53.6,18%,28 : 72,2015
+251-275,University of Bremen,Germany,33.9,53,27.6,55.7,46.3,-,"18,590",25.6,11%,50:50:00,2015
+251-275,University of Hawai’i at Mānoa,United States of America,35.1,59.4,30.7,51.5,38.3,-,,,,,2015
+251-275,University of Iceland,Iceland,14.9,59.1,24.7,74.8,64,-,"13,960",25.9,8%,66:34:00,2015
+251-275,University of Münster,Germany,30.6,48.2,18.1,73,38.2,-,"39,838",46.1,8%,53:47:00,2015
+251-275,University of New Mexico,United States of America,29.6,32.2,23.4,73.1,44.5,-,,,,,2015
+251-275,University of Newcastle,Australia,26.5,70.6,29.9,57.5,75.6,-,"23,508",21.9,18%,56:44:00,2015
+251-275,University of Otago,New Zealand,27.1,81.5,27.7,57.6,31.9,-,"18,600",20.3,21%,57:43:00,2015
+251-275,University of Pavia,Italy,26.3,43.5,19.2,75.6,64.4,-,"22,958",40.6,6%,56:44:00,2015
+251-275,University of Salento,Italy,32.3,40.3,25.6,64.5,38.4,-,"19,959",58.4,1%,64:36:00,2015
+251-275,University of South Florida,United States of America,27.7,41,37.9,55.1,99.8,-,"31,424",21.5,10%,,2015
+251-275,"University of the Andes, Colombia",Colombia,17.3,54.6,12.1,89.8,36.5,-,"15,773",16.9,2%,44:56:00,2015
+251-275,University of the Witwatersrand,South Africa,22.3,66.3,21.7,67.3,94.8,-,"23,321",18.6,9%,56:44:00,2015
+251-275,University of Trento,Italy,26.8,57.3,20.3,70.3,46,-,"16,841",43.2,8%,51:49:00,2015
+251-275,University of Turin,Italy,29.4,39.3,20.3,72.5,40.8,-,"67,552",66,6%,62:38:00,2015
+251-275,University of Waterloo,Canada,30.9,63.1,40.4,47,41.7,-,"30,726",24.2,14%,45:55:00,2015
+276-300,Chalmers University of Technology,Sweden,35.7,62.5,32.8,40.8,75.8,-,"8,605",11.6,15%,30 : 70,2015
+276-300,Colorado State University,United States of America,27.6,30.4,31.3,59.9,38.8,-,"26,769",19,5%,52:48:00,2015
+276-300,Indian Institute of Science,India,32.6,18.2,39.5,51.6,37.9,-,"3,318",8.2,1%,0.847916667,2015
+276-300,Lappeenranta University of Technology,Finland,25.2,59.1,25.5,59.9,73.8,-,"3,486",23.9,19%,31 : 69,2015
+276-300,Montpellier University,France,23.7,56.6,22.5,67.4,33.6,-,"36,731",18.4,14%,51:49:00,2015
+276-300,National Chiao Tung University,Taiwan,35,30.7,40.7,40.4,98.2,-,"12,646",16.6,5%,27 : 73,2015
+276-300,Norwegian University of Science and Technology,Norway,33.5,54.7,29.6,49.6,45,-,"17,381",13.9,9%,46:54:00,2015
+276-300,Panjab University,India,23.7,29.2,10.5,84.4,28.3,-,"16,691",23.9,1%,46:54:00,2015
+276-300,Plymouth University,United Kingdom,18.4,51.3,18.1,80.5,28.8,-,"24,121",25.9,13%,52:48:00,2015
+276-300,Queensland University of Technology,Australia,29.9,69.8,36,42.9,71.9,-,"33,391",35.8,17%,54:46:00,2015
+276-300,Shanghai Jiao Tong University,China,37.9,23.9,37.9,38.9,88.4,-,"38,191",12.8,6%,37 : 63,2015
+276-300,Stellenbosch University,South Africa,30,47.8,31.2,45.6,94.7,-,"21,849",23,8%,53:47:00,2015
+276-300,Tilburg University,Netherlands,33,62.2,45.1,34.9,55.1,-,"7,576",22.4,10%,49:51:00,2015
+276-300,Tokyo Medical and Dental University (TMDU),Japan,42.7,21.8,22.9,51.1,56.9,-,"2,872",3.3,7%,51:49:00,2015
+276-300,University College Cork,Republic of Ireland,26.7,70.8,22.2,56.9,45.9,-,"15,805",22.3,15%,55:45:00,2015
+276-300,University of Bologna,Italy,31,43.1,23.2,64.5,34.9,-,"85,532",22.9,7%,56:44:00,2015
+276-300,University of Cincinnati,United States of America,32,26,22.4,67.8,35.6,-,"36,108",15.7,6%,54:46:00,2015
+276-300,University of Erlangen-Nuremberg,Germany,28.4,49,15.3,68.7,46.8,-,"36,146",53.9,9%,49:51:00,2015
+276-300,University of Fribourg,Switzerland,29.2,84.4,19.7,58.6,48.2,-,"10,416",46.9,19%,58:42:00,2015
+276-300,University of Georgia,United States of America,39.7,35.3,28.9,46.6,31.1,-,"33,119",19.9,7%,57:43:00,2015
+276-300,University of Macau,Macau,17.1,73.3,20.3,68.1,33.6,-,"8,521",14.9,31%,58:42:00,2015
+276-300,University of Milan,Italy,25.3,37.4,22.9,66.9,40.1,-,"58,618",24.3,5%,60:40:00,2015
+276-300,University of Nebraska-Lincoln,United States of America,31,47.8,24.4,57.5,35,-,"21,789",16.4,9%,46:54:00,2015
+276-300,University of South Australia,Australia,25.7,80.8,24,52.7,83.9,-,"18,971",26.2,32%,59:41:00,2015
+276-300,University of South Carolina,United States of America,34.5,37.3,27.5,55.1,31.8,-,"29,336",16.3,1%,55:45:00,2015
+276-300,University of Wollongong,Australia,25.2,80.4,27.8,55.1,44.7,-,"16,489",25.4,24%,50:50:00,2015
+276-300,Victoria University of Wellington,New Zealand,21.6,84.2,28.5,53.8,49.7,-,"17,142",21.1,21%,55:45:00,2015
+276-300,Virginia Polytechnic Institute and State University,United States of America,40.1,28.9,40,40.7,42.6,-,"30,850",18.6,10%,42:58:00,2015
+301-350,Autonomous University of Madrid,Spain,28.6,48.8,19.3,59.7,32.2,-,"28,296",13,15%,56:44:00,2015
+301-350,Bangor University,United Kingdom,22.4,73.1,23,55.8,31.1,-,"9,567",19.5,22%,55:45:00,2015
+301-350,Charles Darwin University,Australia,20.3,45.5,17.8,64.5,32.7,-,"5,570",25.4,15%,67:33:00,2015
+301-350,Charles University in Prague,Czech Republic,31.5,53.9,24.3,50.1,29.4,-,"51,438",13,15%,62:38:00,2015
+301-350,Creighton University,United States of America,40.7,29.1,10.4,63.3,32.4,-,"7,086",8.3,2%,57:43:00,2015
+301-350,Deakin University,Australia,20.1,71.8,20.6,57.5,30.6,-,"32,713",30.4,17%,60:40:00,2015
+301-350,Drexel University,United States of America,31.8,42.2,14.3,57.5,34.6,-,"20,713",10.8,18%,48:52:00,2015
+301-350,Hong Kong Baptist University,Hong Kong,21.2,62.3,13.2,70.8,29.1,-,"10,441",11,25%,61:39:00,2015
+301-350,Illinois Institute of Technology,United States of America,40.2,59.4,17.3,50.3,-,-,,,,,2015
+301-350,Kansas State University,United States of America,27,41.5,16.5,61,39.2,-,"21,379",15.1,10%,50:50:00,2015
+301-350,Koç University,Turkey,21.6,49.8,24.4,58.5,50.6,-,"4,488",14.6,8%,52:48:00,2015
+301-350,Macquarie University,Australia,24,89.2,24.8,50.2,36.2,-,"27,930",20,44%,55:45:00,2015
+301-350,Novosibirsk State University,Russian Federation,24.6,43.8,17.2,70.5,33.4,-,"7,131",7.1,13%,52:48:00,2015
+301-350,Oregon State University,United States of America,27.8,36.7,21.1,63.3,32,-,"22,578",16.8,9%,47:53:00,2015
+301-350,Polytechnic University of Milan,Italy,27.6,42.9,26.6,55.8,67.8,-,"30,025",22.2,12%,34 : 66,2015
+301-350,Renmin University of China,China,34.9,44.4,14.7,59.6,42.8,-,"24,954",12.7,6%,,2015
+301-350,San Diego State University,United States of America,19.7,26.9,24.8,65.6,29.2,-,"27,420",31.7,5%,57:43:00,2015
+301-350,Sapienza University of Rome,Italy,32.3,37.5,28.1,50.7,34.2,-,"120,986",32.3,7%,59:41:00,2015
+301-350,Sharif University of Technology,Iran,28.7,19.4,34.7,50.4,86.2,-,"10,977",18.7,0%,27 : 73,2015
+301-350,State University of Campinas,Brazil,43.4,20.7,38.8,28,44.5,-,"27,095",15.3,3%,48:52:00,2015
+301-350,Sun Yat-sen University,China,32.5,37,25.2,54.1,58.9,-,"51,351",16.6,8%,51:49:00,2015
+301-350,Tulane University,United States of America,40.7,29.7,20.7,53.9,-,-,"11,381",8.4,8%,56:44:00,2015
+301-350,University of Bath,United Kingdom,29.2,76.1,25.1,47.5,36.7,-,"12,830",18.8,30%,46:54:00,2015
+301-350,University of Canterbury,New Zealand,21.1,88.2,23.4,53.8,49.5,-,"12,187",16.5,20%,51:49:00,2015
+301-350,University of Cologne,Germany,25.6,52.1,18.4,65.3,28.8,-,"43,280",43.4,11%,60:40:00,2015
+301-350,University of Connecticut,United States of America,37.6,38.8,27.1,45.4,31.1,-,"25,742",13,11%,51:49:00,2015
+301-350,University of Crete,Greece,19,47,16.8,67,36,-,"14,650",26.9,5%,63:37:00,2015
+301-350,University of Duisburg-Essen,Germany,21.9,49.2,13.7,64.1,44.2,-,"36,051",46.6,11%,49:51:00,2015
+301-350,University of Essex,United Kingdom,31.6,86.7,29,39.3,29.1,-,"12,695",19.8,39%,55:45:00,2015
+301-350,University of Houston,United States of America,39.3,33.1,25.8,44.2,43.2,-,"40,325",43.7,9%,50:50:00,2015
+301-350,University of Jyväskylä,Finland,27.6,47.2,24,50.2,-,-,"9,703",15.2,5%,62:38:00,2015
+301-350,University of Kansas,United States of America,30.6,32.2,20.1,62.2,36.2,-,,,,,2015
+301-350,University of Manitoba,Canada,31.6,43.4,29.4,48.2,43.5,-,"28,576",27.8,11%,55:45:00,2015
+301-350,University of Marrakech Cadi Ayyad,Morocco,16.3,45.1,6.5,83,28.6,-,"56,060",38.7,1%,46:54:00,2015
+301-350,University of Montana,United States of America,29.1,20.7,13.7,75,34.4,-,"12,470",15.2,3%,54:46:00,2015
+301-350,University of Nebraska Medical Center,United States of America,36.4,34.8,16.5,51.5,34.5,-,"2,857",2.6,8%,67:33:00,2015
+301-350,University of Oklahoma,United States of America,32.6,30,15.7,57.5,34.5,-,,,,,2015
+301-350,University of Padua,Italy,20.7,40.4,18.2,68,32.9,-,"62,577",18.3,4%,56:44:00,2015
+301-350,University of Pisa,Italy,22.4,36.7,18.8,69.2,37.7,-,"47,247",18,4%,52:48:00,2015
+301-350,University of Southern Denmark,Denmark,19.5,67.1,20.5,61.2,72.6,-,"22,210",12.7,16%,52:48:00,2015
+301-350,University of Stirling,United Kingdom,21.5,66.9,25.1,49.9,30.7,-,"7,828",15.9,22%,61:39:00,2015
+301-350,University of Stuttgart,Germany,30.6,59.3,17.3,56.9,48.2,-,"24,099",45.4,20%,31 : 69,2015
+301-350,University of Tampere,Finland,22.9,45.6,22.2,58.7,42.5,-,"10,045",9.5,4%,66:34:00,2015
+301-350,University of Tsukuba,Japan,33.4,36.1,21.6,51.1,36.9,-,"15,930",12.6,16%,38 : 62,2015
+301-350,University of Valencia,Spain,17.9,43.7,12,72.7,30.8,-,"58,413",15.4,9%,60:40:00,2015
+301-350,University of Warsaw,Poland,20.8,41.6,13.6,70,28.5,-,"49,292",14.1,7%,67:33:00,2015
+301-350,Wayne State University,United States of America,32,30.7,15.2,61,-,-,"23,065",10.7,7%,57:43:00,2015
+301-350,Zhejiang University,China,36,21.5,33.1,40.2,88.6,-,"47,508",15.9,5%,41:59:00,2015
+351-400,Aalborg University,Denmark,23.8,65.8,28.5,39.9,43.9,-,"17,422",15.9,15%,48:52:00,2015
+351-400,Aberystwyth University,United Kingdom,20.7,66.5,20.6,52.2,33,-,"9,252",19.2,18%,48:52:00,2015
+351-400,Aston University,United Kingdom,19.4,79.7,21.6,45.1,35.7,-,,,,,2015
+351-400,Bayreuth University,Germany,21.3,53.9,12.9,61.8,34.8,-,"12,520",35.5,8%,46:54:00,2015
+351-400,Bielefeld University,Germany,27.5,48.6,19.1,52,37.4,-,"21,428",67.8,8%,57:43:00,2015
+351-400,Claude Bernard University Lyon 1,France,19.1,52.1,17.2,62.6,33.6,-,"35,308",16.1,11%,50:50:00,2015
+351-400,Curtin University,Australia,20.1,91.3,17.1,45.3,36.1,-,"30,333",17.1,38%,53:47:00,2015
+351-400,Ewha Womans University,South Korea,23.5,36,18,57.6,61.3,-,"17,625",14.4,6%,100:00:00,2015
+351-400,George Mason University,United States of America,26.3,35.8,20.3,53.9,28.7,-,"26,622",17,7%,54:46:00,2015
+351-400,Hanyang University,South Korea,31.5,48.4,32.3,29,88.7,-,"16,729",10.4,19%,,2015
+351-400,Hokkaido University,Japan,38.4,25.2,27.5,32.2,43.4,-,"18,162",8.2,9%,29 : 71,2015
+351-400,Indian Institute of Technology Bombay,India,34.2,19.5,24.6,43.5,49.7,-,"8,327",14.9,1%,0.725,2015
+351-400,Indian Institute of Technology Roorkee,India,25.2,16.6,14.3,62.6,69,-,"8,061",18.7,1%,0.765972222,2015
+351-400,Isfahan University of Technology,Iran,20.7,20,27.3,48.9,84.1,-,"10,964",26.5,1%,39 : 61,2015
+351-400,King Mongkut’s University of Technology Thonburi,Thailand,16.7,22.5,10,75,56.5,-,"17,791",23.7,1%,42:58:00,2015
+351-400,Kyushu University,Japan,36.5,26.1,28.5,33.6,68.7,-,"18,925",6.7,8%,28 : 72,2015
+351-400,Lehigh University,United States of America,25.4,34.5,16.6,56.3,39.2,-,"6,300",11.3,15%,44:56:00,2015
+351-400,Linköping University,Sweden,20.2,50.9,27.6,51.5,-,-,"17,866",7.7,10%,52:48:00,2015
+351-400,Murdoch University,Australia,21.2,85.3,17.8,46.5,40.5,-,"16,606",32.8,43%,59:41:00,2015
+351-400,National Cheng Kung University,Taiwan,31.8,26.7,40.1,28.4,100,-,"21,234",14.4,11%,36 : 64,2015
+351-400,National Sun Yat-Sen University,Taiwan,26.4,24.2,32.9,39,47,-,"9,336",19.6,4%,37 : 63,2015
+351-400,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,27.7,26.7,42.6,30.9,82,-,"7,446",17.4,11%,34 : 66,2015
+351-400,Royal College of Surgeons in Ireland,Republic of Ireland,24.7,82.6,18.9,43.5,28.4,-,"2,473",15.6,63%,55:45:00,2015
+351-400,Ruhr University Bochum,Germany,31.5,53.6,22.5,42,47.4,-,"38,675",46.3,13%,48:52:00,2015
+351-400,Swinburne University of Technology,Australia,20.2,86.9,16.3,50.2,38.8,-,"20,314",36.5,33%,44:56:00,2015
+351-400,UiT The Arctic University of Norway,Norway,20.7,60,16.9,53.2,38.8,-,"10,398",12.2,10%,60:40:00,2015
+351-400,Umeå University,Sweden,21.2,50.3,25.7,52.7,31.3,-,"16,667",11.9,7%,60:40:00,2015
+351-400,University of Bari Aldo Moro,Italy,29.1,38.1,18.1,52,35.2,-,"51,560",65.1,2%,65:35:00,2015
+351-400,University of Eastern Finland,Finland,24.3,44.1,21.6,53.8,32.8,-,"10,798",17.3,6%,64:36:00,2015
+351-400,University of Ferrara,Italy,19.5,42.1,15.2,64.5,40.4,-,"18,882",30.2,7%,56:44:00,2015
+351-400,University of Florence,Italy,18.1,37.4,17.3,60.8,35.4,-,"54,290",17.2,7%,59:41:00,2015
+351-400,University of Graz,Austria,23.7,64.8,17.3,55.1,30.2,-,"20,584",26.8,12%,65:35:00,2015
+351-400,University of Hertfordshire,United Kingdom,16.2,74.9,10.9,65,29.6,-,"19,665",19.4,27%,54:46:00,2015
+351-400,University of Lisbon,Portugal,30.1,46.8,22.8,44.8,33.9,-,"47,849",17.5,9%,51:49:00,2015
+351-400,University of Liège,Belgium,25.9,69.1,18.4,44.6,70.4,-,"20,951",25.9,23%,54:46:00,2015
+351-400,University of Minho,Portugal,20.2,49.7,16.2,60.6,44.5,-,"19,090",18.8,9%,52:48:00,2015
+351-400,University of Missouri,United States of America,31.7,29.6,22,46.6,31.2,-,"29,885",14.1,5%,53:47:00,2015
+351-400,University of Navarra,Spain,29.5,46.2,22.3,41.7,90.2,-,"11,259",10.6,16%,52:48:00,2015
+351-400,University of Portsmouth,United Kingdom,16.1,73.3,10.6,61.6,29.2,-,"20,161",19.1,23%,45:55:00,2015
+351-400,University of Rome III,Italy,19.3,48,11.8,62.1,37.7,-,"36,353",61.2,5%,59:41:00,2015
+351-400,University of Seoul,South Korea,21,34.3,20.2,63.3,29.1,-,"10,243",19,3%,36 : 64,2015
+351-400,University of Turku,Finland,24.3,46.3,21.8,47.7,32.1,-,"12,326",14.6,5%,61:39:00,2015
+351-400,University of Vermont,United States of America,26.8,21,19.4,57.5,-,-,,,,,2015
+351-400,University of Waikato,New Zealand,18.6,80.3,17,50,50,-,"10,159",17,25%,57:43:00,2015
+351-400,Vrije Universiteit Brussel,Belgium,31.2,54.5,17.9,48.1,44.8,-,"9,020",17.1,16%,55:45:00,2015
+351-400,Waseda University,Japan,25.5,43.1,16.3,55.5,32.6,-,"52,316",16.9,8%,35 : 65,2015
+351-400,Washington State University,United States of America,28.5,36,27.5,44.2,54.5,-,"24,550",18.3,7%,50:50:00,2015
+351-400,Western Sydney University,Australia,17.8,50.1,22.4,58.7,30.4,-,"30,704",32.2,9%,56:44:00,2015
+351-400,Wuhan University,China,34.1,33.1,17.4,48.5,85.9,-,"46,227",14.4,7%,,2015
+351-400,Wuhan University of Technology,China,16.2,21.4,8,75.8,57.8,-,"50,260",14.9,2%,31 : 69,2015
